@@ -28,7 +28,7 @@ header('Location:mensaje_envio_html.html')
 
 
 
-<?
+?>
 
 
 
